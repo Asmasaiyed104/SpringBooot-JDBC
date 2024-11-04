@@ -1,0 +1,4 @@
+CREATE TABLE PRODUCT(
+                        PRODUCT_ID INT PRIMARY KEY,
+                        PRODUCT_MAKE VARCHAR(300),
+                        PRODUCT_MODEL VARCHAR(300));

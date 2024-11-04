@@ -1,0 +1,9 @@
+package io.pragra.learning.julyjdbctemplate.entity;
+
+public class Product {
+    private Integer productId;
+    private String productMake;
+    private String productModel;
+
+
+}
